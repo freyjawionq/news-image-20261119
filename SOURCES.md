@@ -164,15 +164,19 @@ Sub: Grand Theft Auto VI, after a 13-year wait, is playable from
 midnight local time on PS5 and Xbox.
 
 - Associated Press, "'Grand Theft Auto VI' finally arrives: Here's what
-  one early player thinks", carried by Louisiana First News (Nexstar AP
-  carrier); published 18 November 2026, reporting players in
+  one early player thinks", by Jonathan Landrum Jr., carried by
+  Louisiana First News (Nexstar AP carrier), reporting players in
   Wellington, New Zealand playing on Thursday 19 November 2026 local
-  time (photo caption dated Nov. 19, 2026).
+  time (photo caption dated Nov. 19, 2026). No publication date is
+  asserted for the AP story itself: the only dates documented are the
+  carrier postings' page metadata (date note below).
   https://www.louisianafirstnews.com/news/national-news/grand-theft-auto-vi-finally-arrives-heres-what-one-early-player-thinks/
   Dates — event: the game becomes playable at midnight local time on
   Thursday 19 November 2026, rolling out region by region (New Zealand
-  first); publication: 18 November 2026 (UTC), 19 November in New
-  Zealand.
+  first); publication: not asserted for the AP wire (the story's own
+  metadata exposes no date or time); the Louisiana and CW7 carrier
+  postings of this story carry 18 November 2026 posting dates in
+  their page metadata (date note below).
 - Timestamp correction (independent review): an earlier version of
   this map asserted an exact publication time, 18 November 2026
   13:49 UTC, for the AP story. That time came from the page metadata
@@ -182,28 +186,37 @@ midnight local time on PS5 and Xbox.
   AP wire's publication timestamp: the AP story's own metadata
   exposes no such time, and the independent reviewer's raw fetch of
   the CW7 page returned 403, so the excerpt could not be reproduced
-  independently either. The exact-time assertion is withdrawn; only
-  the publication date, 18 November 2026, is asserted for the AP
-  story. No synthetic evidence was created.
+  independently either. The exact-time assertion is withdrawn; the
+  only date asserted is 18 November 2026, and only as the posting
+  date the carrier pages' metadata show for their postings of this
+  story (next note) — no AP wire publication date or time is
+  asserted. No synthetic evidence was created.
   https://cw7az.com/news/grand-theft-auto-vi-finally-arrives-heres-what-one-early-player-thinks/
 - Date verification (independent review follow-up, 19 November 2026;
-  narrowed 20 November 2026): the reviewer could not see a
-  publication date in the Louisiana First News page's readable text,
-  and that page indeed exposes none. The date asserted above rests on
-  the posting metadata of two public carrier postings of the same AP
-  story (identical text, by Jonathan Landrum Jr.), as read by Muse:
-  Fast Company's posting carries page metadata "Published:
-  2026-11-18T14:10:15+00:00", and the CW7 carrier metadata above
-  reads "Published: 2026-11-18T13:49:02+00:00" — both read on
-  19 November 2026 and re-read on 20 November 2026. An earlier
-  version of this note also cited a TDS carrier byline date,
-  "Nov 18, 2026"; that reading could not be reproduced on re-fetch,
-  by Muse or by the reviewer, and it is withdrawn, and the earlier
-  "three carrier postings" wording is corrected to two. These are
-  carrier POSTING dates — the dates those carriers posted the
-  story — not the AP wire's own publication time: the AP story's
-  metadata exposes no such time, and no exact time and no AP wire
-  timestamp is asserted.
+  narrowed twice on 20 November 2026): the reviewer could not see a
+  publication date in the Louisiana First News page's readable text
+  on his fetch. On Muse's rendered fetch of the same page on
+  20 November 2026, the page's "Additional Details" block reads
+  "Published: 2026-11-18T13:49:22+00:00" (Updated
+  2026-11-18T14:02:27+00:00) — the Louisiana posting's own carrier
+  metadata. The CW7 posting of this story carries the same headline
+  and, in the fetches read by Muse, the same body text (past-tense
+  "was among the first", the Adam Simmons interview), and its
+  metadata above reads "Published: 2026-11-18T13:49:02+00:00". An
+  earlier version of this note cited two further carriers, and both
+  citations are withdrawn: the TDS byline date "Nov 18, 2026" could
+  not be reproduced on re-fetch, by Muse or by the reviewer; and
+  Fast Company does not carry this story — its page carries a
+  different, earlier version of AP's launch coverage under a
+  different headline ("It's launch day for 'Grand Theft Auto VI'"),
+  with a future-tense "will be among the first" and no Simmons
+  interview, so its metadata ("Published:
+  2026-11-18T14:10:15+00:00") dates that other version, not this
+  story, and the earlier claim that the Fast Company and CW7 texts
+  were identical was wrong. What remains asserted: the Louisiana
+  and CW7 carrier POSTING dates, 18 November 2026, from their page
+  metadata as read by Muse — not the AP wire's own publication
+  date or time, which the story's metadata does not expose.
   https://www.fastcompany.com/91644796/its-launch-day-for-grand-theft-auto-vi-the-13-year-wait-is-over-at-midnight
 
 ## Honest gaps
