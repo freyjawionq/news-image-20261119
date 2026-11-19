@@ -14,7 +14,7 @@ had not happened yet at the time of writing.
 ## Lead — "TRUMP, XI AND PUTIN SET TO MEET FACE TO FACE IN SHENZHEN"
 
 Sub: three-way summit of the US, Chinese and Russian leaders due Thursday
-at the APEC forum; nuclear arms cuts and Iran on the table; Europe absent.
+at the APEC forum; nuclear arms control and Iran on the table; Europe absent.
 
 - Reuters (Reuters Open Interest column), "Trump-Xi-Putin summit exposes
   Europe's power deficit", 19 November 2026.
@@ -55,6 +55,13 @@ at the APEC forum; nuclear arms cuts and Iran on the table; Europe absent.
   officials via the wires); the earlier draft's "Ukraine and AI on the
   table" was dropped because the US side said Ukraine was not expected
   on the three-way agenda.
+- Correction (independent review): the image sub still said "NUCLEAR
+  ARMS CUTS", which is more specific than the "nuclear arms control"
+  the cited reporting supports — and inconsistent with the narrowing
+  recorded just above. The image and this map now both say "NUCLEAR
+  ARMS CONTROL". The meeting wording stays prospective throughout
+  ("SET TO MEET", "DUE THURSDAY"): no post-event report is cited, and
+  none is claimed.
 
 ## Panel — "UKRAINE'S ALLIES SET TO CONVENE IN BERLIN"
 
@@ -74,7 +81,9 @@ to meet Trump envoys Witkoff and Kushner over guarantees for Kyiv.
   "plan a show of support" at a meeting that "was due to start" — and at
   revision time (about 03:12 UTC, early morning in Berlin) no post-event
   report existed. The headline now reads "SET TO CONVENE" and the sub
-  "DUE TO MEET".
+  "DUE TO MEET". The prospective wording is retained unchanged at the
+  independent review: no post-event report is cited for Berlin either,
+  and none is claimed.
 
 ## Panel — "INDIA AND JAPAN SET FOR 2+2 TALKS IN TOKYO"
 
@@ -141,6 +150,13 @@ issues unresolved; ministers deadlocked over finance.
   labelled prior-day context instead: the sub now begins "AS OF
   WEDNESDAY'S TALKS". Nothing in the panel presents the 18 November
   position as a 19 November development.
+- Attribution note (independent review): per-claim support for this
+  panel is the Daily Republic-carried report dated 18 November 2026
+  read at build and revision time. The independent reviewer supports
+  the panel through Daily Republic/AFP and could not extract the
+  UN News page itself; the UN News link above is therefore kept as
+  the originating-story reference, not as independently extracted
+  evidence, and no claim in this panel rests on a 19 November source.
 
 ## Panel — "GTA VI ARRIVES AT LAST" (culture — games)
 
@@ -149,7 +165,7 @@ midnight local time on PS5 and Xbox.
 
 - Associated Press, "'Grand Theft Auto VI' finally arrives: Here's what
   one early player thinks", carried by Louisiana First News (Nexstar AP
-  carrier); published 18 November 2026 13:49 UTC, reporting players in
+  carrier); published 18 November 2026, reporting players in
   Wellington, New Zealand playing on Thursday 19 November 2026 local
   time (photo caption dated Nov. 19, 2026).
   https://www.louisianafirstnews.com/news/national-news/grand-theft-auto-vi-finally-arrives-heres-what-one-early-player-thinks/
@@ -157,11 +173,18 @@ midnight local time on PS5 and Xbox.
   Thursday 19 November 2026, rolling out region by region (New Zealand
   first); publication: 18 November 2026 (UTC), 19 November in New
   Zealand.
-- Timestamp substantiation (stage-1 review): the Louisiana First News
-  carrier page does not expose a publication timestamp in its text. The
-  13:49 UTC time above rests on the article metadata of the same AP
-  story at another Nexstar carrier, CW7 Arizona, fetched and read at
-  the revision: "Published: 2026-11-18T13:49:02+00:00".
+- Timestamp correction (independent review): an earlier version of
+  this map asserted an exact publication time, 18 November 2026
+  13:49 UTC, for the AP story. That time came from the page metadata
+  of another Nexstar carrier of the same story, CW7 Arizona —
+  "Published: 2026-11-18T13:49:02+00:00" — as read by Muse in a
+  browser at the stage-1 revision. Carrier-page metadata is not the
+  AP wire's publication timestamp: the AP story's own metadata
+  exposes no such time, and the independent reviewer's raw fetch of
+  the CW7 page returned 403, so the excerpt could not be reproduced
+  independently either. The exact-time assertion is withdrawn; only
+  the publication date, 18 November 2026, is asserted for the AP
+  story. No synthetic evidence was created.
   https://cw7az.com/news/grand-theft-auto-vi-finally-arrives-heres-what-one-early-player-thinks/
 
 ## Honest gaps
