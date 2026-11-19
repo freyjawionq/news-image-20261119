@@ -186,20 +186,25 @@ midnight local time on PS5 and Xbox.
   the publication date, 18 November 2026, is asserted for the AP
   story. No synthetic evidence was created.
   https://cw7az.com/news/grand-theft-auto-vi-finally-arrives-heres-what-one-early-player-thinks/
-- Date verification (independent review follow-up, 19 November 2026):
-  the reviewer could not see a publication date in the Louisiana
-  First News page's readable text, and that page indeed exposes none.
-  The date asserted above is documented on publicly readable postings
-  of the same AP story (identical text, by Jonathan Landrum Jr.):
+- Date verification (independent review follow-up, 19 November 2026;
+  narrowed 20 November 2026): the reviewer could not see a
+  publication date in the Louisiana First News page's readable text,
+  and that page indeed exposes none. The date asserted above rests on
+  the posting metadata of two public carrier postings of the same AP
+  story (identical text, by Jonathan Landrum Jr.), as read by Muse:
   Fast Company's posting carries page metadata "Published:
-  2026-11-18T14:10:15+00:00" (read directly by Muse on
-  19 November 2026), and the TDS carrier page shows the byline date
-  "Nov 18, 2026". Together with the CW7 carrier metadata above (also
-  18 November), the publication DATE is corroborated by three carrier
-  postings of the story. These are carrier posting dates; no exact
-  time and no AP wire timestamp is asserted.
+  2026-11-18T14:10:15+00:00", and the CW7 carrier metadata above
+  reads "Published: 2026-11-18T13:49:02+00:00" — both read on
+  19 November 2026 and re-read on 20 November 2026. An earlier
+  version of this note also cited a TDS carrier byline date,
+  "Nov 18, 2026"; that reading could not be reproduced on re-fetch,
+  by Muse or by the reviewer, and it is withdrawn, and the earlier
+  "three carrier postings" wording is corrected to two. These are
+  carrier POSTING dates — the dates those carriers posted the
+  story — not the AP wire's own publication time: the AP story's
+  metadata exposes no such time, and no exact time and no AP wire
+  timestamp is asserted.
   https://www.fastcompany.com/91644796/its-launch-day-for-grand-theft-auto-vi-the-13-year-wait-is-over-at-midnight
-  https://portal.tds.net/news/read/article/the_associated_press-after_a_13year_wait_grand_theft_auto_vi_arrives_wi-ap/vendor/The%20Associated%20Press
 
 ## Honest gaps
 
