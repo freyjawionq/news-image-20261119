@@ -90,6 +90,10 @@ class EntryTests(unittest.TestCase):
         self.assertEqual(mod.DATE_LINE, "THURSDAY 19 NOVEMBER 2026")
         self.assertIn("19 NOVEMBER 2026", mod.DATE_LINE)
         self.assertTrue(mod.LEAD["headline"])
+        # The footer must not claim every story was reported on 19 Nov:
+        # the source map includes reporting published 17-18 Nov.
+        self.assertNotIn("EVERY STORY ABOVE WAS REPORTED ON", mod.FOOTER)
+        self.assertIn("ON OR AROUND THAT DATE", mod.FOOTER)
         self.assertGreaterEqual(len(mod.PANELS), 4)
         for panel in mod.PANELS:
             self.assertTrue(panel["headline"])

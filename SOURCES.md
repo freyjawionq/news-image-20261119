@@ -2,22 +2,26 @@
 
 This is the 19 November 2026 news roundup: every headline and sub-line in
 `entry.png` is drawn from real reporting published on or around that date,
-fetched and read on the morning of 19 November 2026 (UTC). Nothing is
-invented. Where a story is an event taking place on 19 November itself
-(a summit, a meeting, a launch day), the wording says it is happening or
-due that day — no outcome is claimed for anything that had not happened
-yet at the time of writing.
+fetched and read on the morning of 19 November 2026 (UTC), and refreshed
+at a revision later that morning after the stage-1 review. Nothing is
+invented. The roundup covers the events of 19 November; each item's event
+date and publication date are stated per item below — some of the
+reporting was published on 17-18 November. Where a story is an event
+scheduled for 19 November itself (a summit, a meeting, a launch day), the
+wording says it is due that day — no outcome is claimed for anything that
+had not happened yet at the time of writing.
 
-## Lead — "TRUMP, XI AND PUTIN MEET FACE TO FACE IN SHENZHEN"
+## Lead — "TRUMP, XI AND PUTIN SET TO MEET FACE TO FACE IN SHENZHEN"
 
-Sub: first three-way summit of the US, Chinese and Russian leaders;
-Ukraine, Iran, arms control and AI on the table; Europe absent.
+Sub: three-way summit of the US, Chinese and Russian leaders due Thursday
+at the APEC forum; nuclear arms cuts and Iran on the table; Europe absent.
 
 - Reuters (Reuters Open Interest column), "Trump-Xi-Putin summit exposes
   Europe's power deficit", 19 November 2026.
   https://www.reuters.com/commentary/reuters-open-interest/trump-xi-putin-summit-exposes-europes-power-deficit-2026-11-19/
-  Dates — event: the three leaders meet on Thursday 19 November 2026 at
-  the APEC forum in Shenzhen; publication: 19 November 2026.
+  Dates — event: the three leaders are scheduled to meet on Thursday
+  19 November 2026 at the APEC forum in Shenzhen; publication:
+  19 November 2026.
 - Reuters, "Ukraine's European allies meet in Berlin in show of support",
   19 November 2026 (corroborates the Shenzhen meeting and its timing).
   https://www.reuters.com/world/china/ukraines-european-allies-meet-berlin-show-support-2026-11-19/
@@ -27,36 +31,80 @@ Ukraine, Iran, arms control and AI on the table; Europe absent.
   for the three-way meeting after the APEC plenary).
   https://www.reuters.com/world/china/putin-trump-meet-apec-summit-no-full-scale-talks-planned-kremlin-says-2026-11-18/
   Dates — event: scheduled 19 November 2026; publication: 18 November 2026.
+- Aju Press (AJP), "An odd trio steals the limelight at APEC in
+  Shenzhen", posted 19 November 2026, 08:59 KST (fetched and read at the
+  revision) — gives the day's schedule: Trump and Xi meet first on
+  Thursday at 12:45 p.m. Shenzhen time, and Putin joins them for
+  three-way talks at 3:30 p.m. Korean time (14:30 Shenzhen time).
+  https://www.ajupress.com//view/20261119084715993
+  Dates — event: scheduled Thursday 19 November 2026 (afternoon,
+  Shenzhen); publication: 19 November 2026.
+- Correction (stage-1 review): the headline originally said the leaders
+  "MEET" and the sub called the summit the "FIRST" three-way summit. At
+  build time the cited Reuters reporting described a planned Thursday
+  meeting, and a fresh search at revision time (about 03:12 UTC) found
+  no post-event report: per Aju Press the bilateral was set for 12:45
+  and the three-way talks for 14:30 Shenzhen time, both still ahead.
+  The headline now reads "SET TO MEET" and the sub "DUE THURSDAY". The
+  word "first" was removed: the lead's cited Reuters reporting does not
+  support it (Yonhap's 19 November report did call it the leaders'
+  "first-ever trilateral summit", but the claim was dropped from the
+  image rather than carried on a source outside the lead's wire base).
+  The sub's agenda line was also narrowed to what the reporting
+  supports: nuclear arms control (Aju Press; Reuters) and Iran (US
+  officials via the wires); the earlier draft's "Ukraine and AI on the
+  table" was dropped because the US side said Ukraine was not expected
+  on the three-way agenda.
 
-## Panel — "UKRAINE'S ALLIES CONVENE IN BERLIN"
+## Panel — "UKRAINE'S ALLIES SET TO CONVENE IN BERLIN"
 
-Sub: Germany, France, Britain, Poland, Italy and NATO's Rutte meet Trump
-envoys Witkoff and Kushner over guarantees for Kyiv.
+Sub: Germany, France, Britain, Poland and Italy, with NATO's Rutte, due
+to meet Trump envoys Witkoff and Kushner over guarantees for Kyiv.
 
 - Reuters, "Ukraine's European allies meet in Berlin in show of support",
   19 November 2026.
   https://www.reuters.com/world/china/ukraines-european-allies-meet-berlin-show-support-2026-11-19/
   Dates — event: the Coalition of the Willing meeting in Berlin on
-  Thursday 19 November 2026, attended by US envoys Steve Witkoff and
-  Jared Kushner; publication: 19 November 2026.
+  Thursday 19 November 2026, with US envoys Steve Witkoff and Jared
+  Kushner due to attend; publication: 19 November 2026.
+- Correction (stage-1 review): the headline originally said the allies
+  "CONVENE" and the sub that they "MEET" the envoys, as if the meeting
+  had happened. The Reuters report (carrier metadata: published
+  19 November 2026, 00:11 UTC) describes a planned meeting — the allies
+  "plan a show of support" at a meeting that "was due to start" — and at
+  revision time (about 03:12 UTC, early morning in Berlin) no post-event
+  report existed. The headline now reads "SET TO CONVENE" and the sub
+  "DUE TO MEET".
 
-## Panel — "INDIA AND JAPAN HOLD 2+2 TALKS IN TOKYO"
+## Panel — "INDIA AND JAPAN SET FOR 2+2 TALKS IN TOKYO"
 
-Sub: Rajnath Singh and S Jaishankar meet Koizumi and Motegi for the
+Sub: Rajnath Singh and S Jaishankar to meet Koizumi and Motegi for the
 fourth 2+2 dialogue, on defence and the Indo-Pacific.
 
 - Press Information Bureau, Government of India, press release on the
   Raksha Mantri's Japan visit and the 4th India-Japan 2+2 Dialogue,
-  November 2026.
+  November 2026. The release is prospective throughout ("will
+  participate", the dialogue "to be held in Tokyo").
   https://www.pib.gov.in/PressReleasePage.aspx?PRID=2337279&reg=48&lang=1
   Dates — event: visit 18-19 November 2026, the 2+2 Dialogue in Tokyo in
-  that window; publication: November 2026 (release read 19 November).
+  that window; publication: posted 17 Nov 2026, 11:38 IST (the PIB
+  release's own posted marker); release read 19 November 2026.
 - The Hindu BusinessLine, "India, Japan to push strategic cooperation at
   2+2 talks", published 18 November 2026 (dialogue scheduled 18-19
   November; the dialogue day itself is Thursday 19 November, per The
   Hindu's report of the visit).
   https://www.thehindubusinessline.com/economy/india-japan-to-push-strategic-cooperation-at-22-talks/article71714680.ece
   Dates — event: Thursday 19 November 2026; publication: 18 November 2026.
+- Correction (stage-1 review): the headline originally said the two
+  countries "HOLD" the talks and the sub that the ministers "MEET", as
+  if the dialogue had taken place. Both cited sources describe a
+  scheduled event (the PIB release is written in the future tense), and
+  a fresh search at revision time found only further previews (PTI,
+  19 November: the ministers "are set to review" defence ties and "will
+  co-chair" the dialogue on Thursday) — no post-event report. The
+  headline now reads "SET FOR 2+2 TALKS" and the sub "TO MEET". The PIB
+  publication date is now stated exactly (17 Nov 2026, 11:38 IST); the
+  earlier draft said only "November 2026".
 
 ## Panel — "FIJI DECLARES DISASTER" (Suva — climate)
 
@@ -73,17 +121,26 @@ disaster; FJ$20M for emergency water.
 
 ## Panel — "COP31 DEAL STILL ELUSIVE" (Antalya)
 
-Sub: new draft texts due early Thursday; 21 issues unresolved; ministers
-deadlocked over finance.
+Sub: as of Wednesday's talks — new draft texts due early Thursday; 21
+issues unresolved; ministers deadlocked over finance.
 
-- Daily Republic (UN News correspondent Laura Quinones in Antalya),
-  "COP31 deadlock persists as countries launch new 'climate reality
-  check'", 18 November 2026.
+- UN News, "COP31 deadlock persists as countries launch new 'climate
+  reality check'" (Laura Quinones in Antalya), 18 November 2026 —
+  published 18 November 2026, 14:04 (UTC-5) per the story's metadata;
+  read via the Daily Republic carrier of the same UN News report.
+  https://news.un.org/en/story/2026/11/1168833
   https://dailyrepublic.in/cop31-deadlock-persists-as-countries-launch-new-climate-reality-check/
-  Dates — event: the COP31 presidency's mid-week letter states 21 issues
-  remain unresolved and new draft texts are due early Thursday
-  19 November 2026, ahead of the conference's Friday close;
-  publication: 18 November 2026.
+  Dates — event: on Wednesday 18 November the COP31 presidency's
+  mid-week letter stated 21 issues remain unresolved and new draft texts
+  are due early Thursday 19 November 2026, ahead of the conference's
+  Friday close; publication: 18 November 2026.
+- Correction (stage-1 review): this panel's status is Wednesday's, not
+  Thursday's news. A fresh search at revision time found no verified
+  19 November update — the UN News story above is dated 18 November and
+  later coverage still rested on it — so the panel is kept as clearly
+  labelled prior-day context instead: the sub now begins "AS OF
+  WEDNESDAY'S TALKS". Nothing in the panel presents the 18 November
+  position as a 19 November development.
 
 ## Panel — "GTA VI ARRIVES AT LAST" (culture — games)
 
@@ -100,6 +157,12 @@ midnight local time on PS5 and Xbox.
   Thursday 19 November 2026, rolling out region by region (New Zealand
   first); publication: 18 November 2026 (UTC), 19 November in New
   Zealand.
+- Timestamp substantiation (stage-1 review): the Louisiana First News
+  carrier page does not expose a publication timestamp in its text. The
+  13:49 UTC time above rests on the article metadata of the same AP
+  story at another Nexstar carrier, CW7 Arizona, fetched and read at
+  the revision: "Published: 2026-11-18T13:49:02+00:00".
+  https://cw7az.com/news/grand-theft-auto-vi-finally-arrives-heres-what-one-early-player-thinks/
 
 ## Honest gaps
 
@@ -112,5 +175,10 @@ midnight local time on PS5 and Xbox.
 - No sports result, health story or market close from 19 November could
   be verified from a dated primary/wire source at build time, so none is
   shown rather than padding the page with unverified items.
-- The Shenzhen and Berlin items describe meetings taking place on
-  19 November; no outcomes are claimed for either.
+- The Shenzhen, Berlin and Tokyo items describe meetings scheduled for
+  19 November; when the sources were refreshed at the revision (about
+  03:12 UTC) none of the three had yet taken place, and no outcomes are
+  claimed for any of them. The page's footer no longer claims every
+  story was reported on 19 November: the roundup covers the day's
+  events, drawn from reporting published on or around that date
+  (17-19 November, as the per-item Dates lines above show).

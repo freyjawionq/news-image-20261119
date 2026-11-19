@@ -9,11 +9,12 @@ files read, no clock — and writes it to `$MAKEFUN_OUTPUT_DIR/entry.png`
 (default `/output/entry.png`). The render is a pure function of the story
 table in the program, so two runs produce byte-identical output.
 
-The page leads on the Trump-Xi-Putin three-way meeting at the APEC forum
-in Shenzhen, with panels on the Coalition of the Willing meeting in
-Berlin, the India-Japan 2+2 dialogue in Tokyo, Fiji's El Nino state of
-disaster, the COP31 endgame in Antalya, and the launch of Grand Theft
-Auto VI.
+The page leads on the Trump-Xi-Putin three-way meeting due Thursday at
+the APEC forum in Shenzhen, with panels on the Coalition of the Willing
+meeting set for Berlin, the India-Japan 2+2 dialogue scheduled in Tokyo,
+Fiji's El Nino state of disaster, the COP31 endgame in Antalya (labelled
+as the position going into Thursday, from Wednesday's talks), and the
+launch of Grand Theft Auto VI.
 
 This is the 19 November 2026 news roundup: every headline is drawn from
 real reporting published on or around that date. `SOURCES.md` maps each
